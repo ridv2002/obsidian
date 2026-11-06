@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5b398e7f6dab3fd",
+        "id": "970d95753b3392bc",
         "type": "tabs",
         "children": [
           {
-            "id": "14c43fda0ac8ce9f",
+            "id": "e5b2dd8d722576d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "configs/Ignorar arquivos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Ignorar arquivos"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "configs/Ignorar arquivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +198,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14c43fda0ac8ce9f",
-  "lastOpenFiles": []
+  "active": "e5b2dd8d722576d9",
+  "lastOpenFiles": [
+    "commandos/git.md",
+    "configs/Ignorar arquivos.md",
+    "estudo/aula1.igi.md",
+    "configs"
+  ]
 }
